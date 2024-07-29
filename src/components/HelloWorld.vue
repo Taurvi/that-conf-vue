@@ -26,7 +26,7 @@
 
 <!--|== Scripts ================================================================================ -->
 <script setup>
-import { useDefaultStore } from '@/store/DefaultStore';
+import { useDefaultStore } from '@/store/DefaultS';
 import Service from '@/services';
 
 const store = useDefaultStore();
